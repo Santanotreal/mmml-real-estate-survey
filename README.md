@@ -12,11 +12,19 @@ References collection for the survey: "Multimodal Machine Learning for Real Esta
 4. [Applications](#4-applications)
 ---
 ## 1. Empirical Appraisal Approaches
+
+---
 ## 2. Automated Valuation Models (AVMs)
 ### 2.1 Traditional AVMs
 ### 2.2 Advanced AVMs
 ### 2.3 Machine Learning Based AVMs
 ### 2.4 Multimodal Machine Learning Based AVMs
+
+---
 ## 3. Datasets and Evaluation
+
+---
 ## 4. Applications
+
+---
 
