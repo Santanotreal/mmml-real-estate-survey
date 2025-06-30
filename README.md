@@ -2,7 +2,7 @@ References collection for the survey: "Multimodal Machine Learning for Real Esta
 ---
 ## **Table of Contents**
 0. Paper link: [Multimodal Machine Learning for Real Estate Appraisal: A Comprehensive Survey](https://link.springer.com/chapter/10.1007/978-981-96-8183-9_26)
-[1. Empirical Appraisal Approaches](#1-empirical-appraisal-approaches)
+1. [Empirical Appraisal Approaches](#1-empirical-appraisal-approaches)
 2. [Automated Valuation Models (AVMs)](#2-automated-valuation-models-avms)  
    - 2.1 [Traditional AVMs](#21-traditional-avms)  
    - 2.2 [Advanced AVMs](#22-advanced-avms)  
